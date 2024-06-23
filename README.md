@@ -4,7 +4,7 @@
 * Контактная
 * Информационная
 
-## Пример работы можно посмотреть на github pages: [тык](https://daniil-borovoy.github.io/cyberg/)
+## Пример работы можно посмотреть на github pages: [тык](https://daniilborovoy.github.io/cyberg/)
 
 ![home](https://user-images.githubusercontent.com/74528634/155312644-1fd11179-67b1-49b2-8497-167b47d09007.png "Домашняя страница")
 
